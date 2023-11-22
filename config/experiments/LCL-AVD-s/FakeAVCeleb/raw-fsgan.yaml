@@ -1,0 +1,9 @@
+DATASET:
+  name: 'FakeAVCeleb'
+  video_n_frames: 10
+  batch_size: 32
+  test_batch_size: 32
+  FakeAVCeleb:
+    quality: 0
+    method: 'fsgan'
+

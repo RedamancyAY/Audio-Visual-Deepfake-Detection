@@ -1,0 +1,9 @@
+DATASET:
+  name: 'DF_TIMIT'
+  video_n_frames: 10
+  batch_size: 16
+  use_audio: True
+  test_batch_size: 16
+  
+  DF_TIMIT:
+    video_quality: 'LQ' # LQ ○r HQ

@@ -1,0 +1,14 @@
+DATASET:
+  name: 'FakeAVCeleb'
+  video_n_frames: 10
+  batch_size: 16
+  test_batch_size: 16
+  
+  FakeAVCeleb:
+    quality: 0
+    method: 'faceswap'
+
+    
+MODEL:
+  lr: 0.0002
+  lr_decay_factor: 0.5

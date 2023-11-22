@@ -1,0 +1,7 @@
+DATASET:
+  name: 'DFDC'
+  video_n_frames: 10
+  face_detect_method: 's3fd'
+  batch_size: 48
+  test_batch_size: 48
+  

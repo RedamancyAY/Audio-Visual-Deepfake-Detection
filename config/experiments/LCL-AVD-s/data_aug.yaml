@@ -1,0 +1,12 @@
+DataAug:
+  jpeg_compression: True
+  
+#   audio
+  random_align: False
+  random_speed: True
+
+  flip: True
+  rotate: True
+  gaussianBlur: True
+  crop_resize: False
+  

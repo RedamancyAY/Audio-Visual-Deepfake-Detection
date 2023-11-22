@@ -1,0 +1,9 @@
+DATASET:
+  name: 'FakeAVCeleb'
+  video_n_frames: 10
+  batch_size: 16
+  test_batch_size: 16
+  
+  FakeAVCeleb:
+    quality: 23
+    method: None
